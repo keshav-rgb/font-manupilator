@@ -1,0 +1,22 @@
+canvas{
+        border: 1px solid black;
+        box-shadow: 5px 5px 5px black;
+ }
+body{
+text-align: center;
+}
+#instructions{
+color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom:0;
+    width:100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    }
+h1{
+box-shadow: 5px 5px 5px grey;
+}
